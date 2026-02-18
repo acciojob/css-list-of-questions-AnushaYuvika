@@ -1,14 +1,15 @@
 
 /* Your CSS Code here. */
 p {
-	background-color: #f8fffe;
-	height: 50px;
-	margin-top: 20px;
-	padding: 15px;
-	border-left: 8px solid green;
+	/* background-color: #f8fffe; */
 }
 
 .questions {
+	height: 50px;
+	margin-top: 20px;
+	padding: 15px;
 	max-width: 600px;
+	border-left: 8px solid green;
 	background-color: rgb(248, 255, 254);
+	background-color: #f8fffe;
 }
